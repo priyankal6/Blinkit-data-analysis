@@ -24,3 +24,7 @@ This project presents an interactive Power BI dashboard built using the BlinkIT 
 - Analyzed customer ratings to identify highly rated product categories.
 - Examined the relationship between item visibility and sales performance.
 - Built an interactive dashboard enabling dynamic filtering and drill-down analysis.
+
+# Dashboard
+
+<a href = "https://github.com/priyankal6/Blinkit-data-analysis/blob/main/Blinkit%20sales%20project.pbix">Dashboard
