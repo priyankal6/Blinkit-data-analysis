@@ -28,3 +28,14 @@ This project presents an interactive Power BI dashboard built using the BlinkIT 
 # Dashboard
 
 <a href = "https://github.com/priyankal6/Blinkit-data-analysis/blob/main/Blinkit%20sales%20project.pbix">Dashboard
+
+# Skills Demonstrated
+
+- Data Cleaning using Power Query
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Interactive Dashboard Development
+- Business Intelligence Reporting
+- Data Visualization
+- Analytical Storytelling
