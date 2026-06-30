@@ -7,3 +7,9 @@ This project presents an interactive Power BI dashboard built using the BlinkIT 
 - Compare outlet performance by size, type, and location.
 - Understand customer preferences through ratings.
 - Monitor sales trends across outlet establishment years.
+
+# Tools Used
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
