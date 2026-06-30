@@ -16,3 +16,11 @@ This project presents an interactive Power BI dashboard built using the BlinkIT 
 
 # Dataset used:
 <a href = "https://github.com/priyankal6/Blinkit-data-analysis/blob/main/BlinkIT%20Grocery%20Data%20(1).xlsx">Dataset
+
+# Key Business Insights
+- Identified the highest revenue-generating product categories.
+- Compared sales performance across different outlet types and sizes.
+- Evaluated sales contribution by Tier 1, Tier 2, and Tier 3 locations.
+- Analyzed customer ratings to identify highly rated product categories.
+- Examined the relationship between item visibility and sales performance.
+- Built an interactive dashboard enabling dynamic filtering and drill-down analysis.
